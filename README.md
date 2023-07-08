@@ -8,9 +8,8 @@ Jate is a text editor that runs in the browser. It is a single page application 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies used](#technologies-used)
-- [License](#license)
-- [How to Contribute](#how-to-contribute)
+- [Technologies](#technologies)
+- [Credits](#Credits)
 - [Deployed_Link](#deployed-link)
 - [Questions](#questions)
 
@@ -50,8 +49,10 @@ Node.js, Express.js, IndexedDB, PWA, Heroku
 
 [Heroku Link]()
 
+[Deployed application Link]()
+
 ## Questions
 
-[Deployed application Link]()
+[Github Link]()
 
 For any addditional information, reach me at 
