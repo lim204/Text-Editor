@@ -19,21 +19,16 @@ This program runs through a browser using the link to the the deployed applicati
 
 - Clone this repository to receive all of the files. 
 
-- Run ``"npm install"`` in the command line of your terminal to set up all of the dependencies.
+- Run ``npm install`` in the command line of your terminal to set up all of the dependencies.
 
-- Run ``"npm start"`` or ``"npm run start:dev"`` to start the backend and serve the client.
+- Run ``npm start`` or ``npm run start:dev`` to start the backend and serve the client.
 
-- Go to the url of the application ``http//:localhost:3000``.
+- Go to the url of the application ``http//:localhost:3000.``
 
 ## Usage
 
-Use the deployed URL to open the deployed application. 
---- screenshot --
-![Jate]( )
-
-When user types a code snippet or notes in the editor. The content will be saved in the IndexedDB when the window is unfocused. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB.
-
-when the user click on the "Install" button, the web application will be downloaded as an icon in their desktop.
+When users type a note or code snippet in the editor. The content will be saved in the IndexedDB when the window is unfocused. When users reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB.
+When users click on the "Install" button, the web application will be downloaded as an icon on their desktop.
 
 The application works without an internet connection.
 
@@ -50,6 +45,8 @@ Node.js, Express.js, IndexedDB, PWA, Heroku
 [Heroku Link]()
 
 [Deployed application Link]()
+
+![screencaptureJate](https://github.com/lim204/Text-Editor/assets/125234173/a8f6ae10-b3d7-404f-a1e7-bcbf6a1d3b18)
 
 ## Questions
 
