@@ -42,7 +42,7 @@ The application works without an internet connection.
 
 ## Deployed Link
 
-[Heroku Link]()
+[Heroku Link](https://text-editor001-8694e5da8686.herokuapp.com/)
 
 [Deployed application Link](https://lim204.github.io/Text-Editor/)
 
