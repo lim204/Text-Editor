@@ -2,7 +2,7 @@
 
 ## Description
 
-Jate is a text editor that runs in the browser. It is a single page application that can runs online and offline, uses data persistence and meets all PWA criteria. The application looks for data in the indexedDB to populate the editor. This applications can be also be used offline, by clicking on install the application will be downloaded in the desktop. This application can be very helpful to developers to  with create notes or code snippets with or without internet connections so users can reliably retrive them in other time.
+Jate is a text editor that runs in the browser. It is a single page application that can runs online and offline, using data persistence. The application looks for data in the indexedDB to populate the editor. To use this application offline, user will need to click on install button and then the application will be downloaded as an icon on the desktop. 
 
 ## Table of Contents 
 
@@ -21,7 +21,7 @@ This program runs through a browser using the link to the the deployed applicati
 
 - Run ``npm install`` in the command line of your terminal to set up all of the dependencies.
 
-- Run ``npm start`` or ``npm run start:dev`` to start the backend and serve the client.
+- Run ``npm start`` to start the backend and serve the client.
 
 - Go to the url of the application ``http//:localhost:3000.``
 
@@ -34,7 +34,7 @@ The application works without an internet connection.
 
 ##  Technologies 
 
-Node.js, Express.js, IndexedDB, PWA, Heroku
+ IndexedDB, PWA, Heroku
 
 ## Credit:
 
