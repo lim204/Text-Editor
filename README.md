@@ -1,4 +1,5 @@
 # Text-Editor
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://text-editor001-8694e5da8686.herokuapp.com/)
 
 ## Description
 
